@@ -1,0 +1,12 @@
+ul{
+    list-style-type: none;
+    background-color:blue;
+    border: 1px solid;
+    height: 28px;
+}
+
+li{
+    float: left;
+    margin-right: 25px;
+    font-weight: bold;
+}

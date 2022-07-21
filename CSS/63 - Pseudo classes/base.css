@@ -1,0 +1,13 @@
+li {
+    font-size: 20px;
+}
+/* li:first-child {
+    color:yellow;
+}
+li:last-child {
+    color: red;
+} */
+
+li:nth-last-child(2){
+    color: red;
+}

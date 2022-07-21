@@ -1,0 +1,12 @@
+/* p::first-line{
+    font-size:10px;
+    color:#fff;
+}
+
+p::after{
+    content:url("https://hyperledger-fabric.readthedocs.io/en/latest/_static/images/github_button.png");
+} */
+
+::selection{
+    color: red;
+}
